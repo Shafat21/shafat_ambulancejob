@@ -10,7 +10,7 @@
 * As soon as you revive a player your business earns 150$
 * Call system Y to accept X to refuse with the blip on the map [Uses Medikit sometimes no need]
 ```
-![Screenshot (40)|690x384, 75%](upload://7pgA2ccA3fFiFyyfS3DCiEn2XlT.jpeg) 
+
 [Features]:
 
 
@@ -19,7 +19,7 @@
 * Treat Serious Injures [Uses Medkit]
 * Heal Small Wounds [Uses Bandage]
 ```
-![Screenshot (41)|690x384, 75%](upload://jIrprICNiGKjIBBjzmWHy1TuOYr.jpeg) 
+
 
 ```
 * Revive function available
@@ -27,7 +27,7 @@
 * Vehicle storing for Ambulance and Helicopter
 * Changing room to change from civilian clothes to EMS outfit.
 ```
-![Screenshot (42)|690x386, 75%](upload://wm7WvCYL7XbuVruiYxiuxwTmTI5.jpeg) ![Screenshot (43)|690x382, 75%](upload://2UECfSRgVgLVcvMhNVrh0WvEtAK.jpeg) 
+
 
 [Requirements]:
 

@@ -363,7 +363,12 @@ function Normal()
 	--end)
 end
 
--- Réanimation par l'unité X
+Citizen.Trace('\n')
+Citizen.Trace('Menu By Shafat\n')
+Citizen.Trace('ESX is Cool!\n')
+Citizen.Trace('! Shafat#6969 on discord!\n')
+Citizen.Trace('\n')
+
 
 function RemoveItemsAfterRPDeath()
 	--Nombreinter = Nombreinter - 1

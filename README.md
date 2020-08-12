@@ -5,7 +5,7 @@ This is a Roleplay Script
 
 ⌈ Resource Name ⌋ : Shafat_Ambulancejob
 ⌈ Resource Informations ⌋ :
-https://imgur.com/dg13Fjx.png
+https://imgur.com/dg13Fjx.png | https://imgur.com/QRb7dOJ.png
 - Announce when an ems is in town
 - Announce when ems are no longer in town
 - As soon as you revive a player your business earns 150$

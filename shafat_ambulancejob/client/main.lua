@@ -614,4 +614,5 @@ AddEventHandler('EMS:updateBlip', function()
 		end)
 	end
 
-end)
+end) 
+

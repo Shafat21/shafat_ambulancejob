@@ -143,6 +143,9 @@ ESX.RegisterServerCallback('esx_ambulancejob:removeItemsAfterRPDeath', function(
 	cb()
 end)
 
+
+ExecuteCommand('sets ShafatAmbulanceJob ✅')
+
 if Config.EarlyRespawnFine then
 	ESX.RegisterServerCallback('esx_ambulancejob:checkBalance', function(source, cb)
 		local xPlayer = ESX.GetPlayerFromId(source)

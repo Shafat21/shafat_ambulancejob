@@ -13,16 +13,12 @@ Keys = {
 local FirstSpawn, PlayerLoaded = true, false
 
 IsDead = false
-ESX = nil
+
 Nombreinter = 0
 ReaFaite = false
 
 Citizen.CreateThread(function()
-	while ESX == nil do
-		TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-		Normal()
-		Citizen.Wait(0)
-	end
+	ESX = exports["es_extended"]:getSharedObject()
 
 	while ESX.GetPlayerData().job == nil do
 		Citizen.Wait(100)
